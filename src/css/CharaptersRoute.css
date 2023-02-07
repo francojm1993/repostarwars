@@ -1,0 +1,11 @@
+.container-Charapter_route {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-character_cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
